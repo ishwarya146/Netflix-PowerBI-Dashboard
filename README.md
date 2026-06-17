@@ -1,7 +1,7 @@
 # Netflix-PowerBI-Dashboard
 Interactive Netflix Dashboard built using Power BI. Includes analysis of content type, ratings, release years, countries, and genres.
 
-Project Overview:
+Project Overview:<br>
 This project presents an interactive Netflix Dashboard built using Microsoft Power BI.
 The dashboard provides insights into Netflix's content library, helping users analyze trends in movies and TV shows based on ratings, genres, countries, release years, and content types.
 
